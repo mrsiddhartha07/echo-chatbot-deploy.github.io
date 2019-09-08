@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/echo-chatbot-deploy/static/css/main.23eafd0e.chunk.css",
+    "main.js": "/echo-chatbot-deploy/static/js/main.a18bed07.chunk.js",
+    "main.js.map": "/echo-chatbot-deploy/static/js/main.a18bed07.chunk.js.map",
+    "runtime~main.js": "/echo-chatbot-deploy/static/js/runtime~main.ee367b66.js",
+    "runtime~main.js.map": "/echo-chatbot-deploy/static/js/runtime~main.ee367b66.js.map",
+    "static/js/2.d512f730.chunk.js": "/echo-chatbot-deploy/static/js/2.d512f730.chunk.js",
+    "static/js/2.d512f730.chunk.js.map": "/echo-chatbot-deploy/static/js/2.d512f730.chunk.js.map",
+    "index.html": "/echo-chatbot-deploy/index.html",
+    "precache-manifest.b1ae58239d008da11c7fd5eba8fafda1.js": "/echo-chatbot-deploy/precache-manifest.b1ae58239d008da11c7fd5eba8fafda1.js",
+    "service-worker.js": "/echo-chatbot-deploy/service-worker.js",
+    "static/css/main.23eafd0e.chunk.css.map": "/echo-chatbot-deploy/static/css/main.23eafd0e.chunk.css.map"
+  }
+}
