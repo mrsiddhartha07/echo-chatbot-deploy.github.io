@@ -1,0 +1,15 @@
+.chat-window .chat-box {
+        position: sticky;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        z-index: 1030;
+}
+
+.chat-window .back-to-login{
+
+    position: absolute;
+    bottom: -34px;
+    left: 0;
+    right: 0;
+}   
